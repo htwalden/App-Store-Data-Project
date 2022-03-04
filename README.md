@@ -1,4 +1,5 @@
-# App-Store-Data-Project
-Data science project in jupyter notebook analyzing data from the Apple and Google Play app stores.
+# Data Science Repository
 
-The purpose of the project is to determine which genre / type of app is best suited for a company to use to create a new app. 
+This is my repository of personal data science projects that I created through either curated learning platforms or from personal curiosity. 
+
+The projects are in the form of jupyter notebooks and showcase my learning progress and skills.  
