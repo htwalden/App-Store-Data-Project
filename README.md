@@ -16,11 +16,11 @@ The projects are in the form of jupyter notebooks and showcase my learning progr
   - Notebook: [Hacker News Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/hacker_news_proj.ipynb)
 ### 3. Used Automobile Data Analysis:
   - Purpose: 
-  - Method: 
+  - Method: Jupyter Notebook / python / pandas / matplotlib / seaborn
   - Notebook: [Used Automobile Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/autos_proj.ipynb)
 ### 4. Interstate 94 Traffic Volume Analysis: 
-  -Purpose: 
-  - Method
+  - Purpose: 
+  - Method: Jupyter Notebook / python / pandas / matplotlib / seaborn
   - Notebook: [Interstate Traffic Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/interstate_data_project.ipynb)
 
 
