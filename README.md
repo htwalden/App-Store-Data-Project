@@ -6,7 +6,7 @@ The projects are in the form of jupyter notebooks and showcase my learning progr
 
 ## Projects:
 - [App Store Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/Free_App_Data_Project.ipynb)
-- [Hacker News Project]
+- [Hacker News Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/hacker_news_proj.ipynb)
 - [Used Automobile Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/autos_proj.ipynb)
 - [Interstate Traffic Project]
 
