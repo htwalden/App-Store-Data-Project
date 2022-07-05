@@ -1,4 +1,4 @@
-# Data Science Repository
+# DataQuest Project Repository
 
 This is my repository of personal data science projects that I created through either curated learning platforms or from personal curiosity. 
 
